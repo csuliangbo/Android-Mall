@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/f_bg.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/f_bg.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/perm_group_device_alarms_selected.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/perm_group_device_alarms_selected.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/info.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/info.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/express_body.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/express_body.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/weibo_datu_left_focus.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/weibo_datu_left_focus.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/weibo_datu_save_focus.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/weibo_datu_save_focus.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/perm_group_location.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/perm_group_location.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/toolbar_button_background.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/toolbar_button_background.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/vpi__tab_unselected_holo.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/custom_tab_indicator_unselected_focused.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/custom_tab_indicator_unselected_focused.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/weibo_datu_right_focus.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/weibo_datu_right_focus.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/perm_group_calendar.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/perm_group_calendar.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/line_photo.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/line_photo.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/progress_img.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/progress_img.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/item_grid_filter_sanjiao_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/item_grid_filter_sanjiao_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/custom_tab_indicator_unselected_pressed.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/custom_tab_indicator_unselected_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/perm_group_location_selected.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/perm_group_location_selected.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/body.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/body.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/search_tag_selector.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/search_tag_selector.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/perm_group_camera_normal.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/perm_group_camera_normal.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/infoicon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/infoicon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/perm_group_camera_selected.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/perm_group_camera_selected.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/seekbar_img.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/seekbar_img.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/perm_group_device_alarms_normal.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/perm_group_device_alarms_normal.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/item_price_red_bg.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/item_price_red_bg.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/vpi__tab_selected_pressed_holo.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/shape_bg.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/shape_bg.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/perm_group_device_alarms.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/perm_group_device_alarms.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/title.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/title.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/nav_bg.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/nav_bg.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/dialog_bg.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/dialog_bg.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/item_grid_header_arrow_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/item_grid_header_arrow_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/custom_tab_indicator.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/custom_tab_indicator.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/custom_tab_indicator_selected_focused.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/custom_tab_indicator_selected_focused.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/custom_tab_indicator_selected.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/custom_tab_indicator_selected.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/xlistview_arrow.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/xlistview_arrow.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/line.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/line.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/toast_bg.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/toast_bg.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/weibo_datu_left_selector.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/weibo_datu_left_selector.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/weibo_datu_left.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/weibo_datu_left.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/vpi__tab_unselected_focused_holo.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/tab_select.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/tab_select.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/shape_top_corner_no_bottom_line.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/shape_top_corner_no_bottom_line.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/item_grid_filter_bg.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/item_grid_filter_bg.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/item_grid_filter_down_active_arrow.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/item_grid_filter_down_active_arrow.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/vpi__tab_selected_holo.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/overscroll_glow.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/overscroll_glow.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/custom_tab_indicator_focused.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/custom_tab_indicator_focused.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/filter_toolbar_bg.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/filter_toolbar_bg.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/vpi__tab_indicator.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/weibo_datu_right_selector.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/weibo_datu_right_selector.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/good_list_bg.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/good_list_bg.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/default_image.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/default_image.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/perm_group_calendar_normal.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/perm_group_calendar_normal.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/weibo_datu_save.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/weibo_datu_save.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/textbg_select.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/textbg_select.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/item_graph_header_view_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/item_graph_header_view_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/item_grid_filter_bg_line.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/item_grid_filter_bg_line.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/vpi__tab_unselected_pressed_holo.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/overscroll_edge.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/overscroll_edge.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/weibo_datu_save_selector.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/weibo_datu_save_selector.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/perm_group_location_normal.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/perm_group_location_normal.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/item_grid_filter_down_arrow.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/item_grid_filter_down_arrow.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/perm_group_camera.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/perm_group_camera.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/custom_tab_indicator_divider.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/custom_tab_indicator_divider.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/item_grid_header_view_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/item_grid_header_view_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/weibo_datu_right.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/weibo_datu_right.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/custom_tab_indicator_unselected.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/custom_tab_indicator_unselected.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/vpi__tab_selected_focused_holo.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/progress_bg.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/progress_bg.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/perm_group_calendar_selected.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/perm_group_calendar_selected.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable/custom_tab_indicator_selected_pressed.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable/custom_tab_indicator_selected_pressed.9.png"
+    }
+]

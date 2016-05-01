@@ -1,0 +1,470 @@
+[
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/crash_log_detail_activity.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/crash_log_detail_activity.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/upop_dialog.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/upop_dialog.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/e4_history.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/e4_history.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/c1_check_out.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/c1_check_out.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/web_tools.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/web_tools.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/appout.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/appout.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/b2_product_detail.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/b2_product_detail.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/lead_c.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/lead_c.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/b2_product_detail_call.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/b2_product_detail_call.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/b2_product_detail_cell.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/b2_product_detail_cell.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/xlistview_header_cart.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/xlistview_header_cart.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/c4_invoice_cell.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/c4_invoice_cell.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/specification_cell.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/specification_cell.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/advance_search_cell_value.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/advance_search_cell_value.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/navigationbar.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/navigationbar.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/gallery_image.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/gallery_image.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/b3_product_photo_cell.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/b3_product_photo_cell.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/g1_help.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/g1_help.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/lead_a.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/lead_a.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/e0_profile.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/e0_profile.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/lead_d.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/lead_d.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/advance_search_topview.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/advance_search_topview.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/b2_product_photo_cell.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/b2_product_photo_cell.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/b4_product_param.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/b4_product_param.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/specification_value_cell.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/specification_value_cell.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/pay_web.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/pay_web.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/c2_payment.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/c2_payment.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/g3_message.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/g3_message.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/full_screen_view_pager.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/full_screen_view_pager.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/share_tencent.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/share_tencent.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/splash.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/splash.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/other_pay_web.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/other_pay_web.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/toast_view.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/toast_view.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/b3_product_photo_banner_call.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/b3_product_photo_banner_call.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/b3_product_photo_banner_cell.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/b3_product_photo_banner_cell.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/null_pager.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/null_pager.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/e0_profile_head.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/e0_profile_head.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/d2_filter.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/d2_filter.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/b0_index_category_cell.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/b0_index_category_cell.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/f2_edit_address.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/f2_edit_address.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/f1_new_address.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/f1_new_address.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/fullscreen_photo.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/fullscreen_photo.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/debug_message_list.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/debug_message_list.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/share_dialog.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/share_dialog.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/e6_shipping_status_cell.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/e6_shipping_status_cell.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/b0_index_hot_cell.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/b0_index_hot_cell.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/activity_lifecycle_activity.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/activity_lifecycle_activity.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/c5_bonus.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/c5_bonus.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/webview.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/webview.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/d0_category.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/d0_category.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/floatview_setting.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/floatview_setting.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/b0_index.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/b0_index.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/c6_red_envelope.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/c6_red_envelope.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/pager_imageview.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/pager_imageview.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/b3_product_photo.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/b3_product_photo.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/b6_product_desc.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/b6_product_desc.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/e6_shipping_status_list.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/e6_shipping_status_list.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/debug_message_item.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/debug_message_item.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/xlistview_footer.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/xlistview_footer.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/city_item.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/city_item.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/toolbar.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/c6_red_envelope_cell.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/c6_red_envelope_cell.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/g2_info_shop_help_cell.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/g2_info_shop_help_cell.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/g2_info.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/g2_info.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/e5_collection.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/e5_collection.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/c0_shopping_cart_cell.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/c0_shopping_cart_cell.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/c4_invoice.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/c4_invoice.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/debug_home_tab.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/debug_home_tab.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/memory.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/memory.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/a1_signup.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/a1_signup.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/debug_message_detail.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/debug_message_detail.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/crash_log_item.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/crash_log_item.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/d1_category.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/d1_category.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/c2_payment_cell.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/c2_payment_cell.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/top_view.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/top_view.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/f3_region_pick_cell.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/f3_region_pick_cell.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/g1_help_cell.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/g1_help_cell.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/dialog_layout.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/f0_address_list.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/f0_address_list.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/b5_product_comment_cell.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/b5_product_comment_cell.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/c0_shopping_cart.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/c0_shopping_cart.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/c1_check_out_body_item.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/c1_check_out_body_item.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/e4_history_cell.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/e4_history_cell.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/progress_view.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/progress_view.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/button_view.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/button_view.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/b5_product_comment.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/b5_product_comment.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/b0_index_banner_cell.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/b0_index_banner_cell.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/add_item_component.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/add_item_component.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/alipay_dialog.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/alipay_dialog.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/d0_category_cell.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/d0_category_cell.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/b1_product_list.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/b1_product_list.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/g0_setting.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/g0_setting.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/gallery_image_item.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/gallery_image_item.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/f3_region_pick.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/f3_region_pick.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/xlistview_header.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/xlistview_header.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/c0_shopping_car_footer.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/c0_shopping_car_footer.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/f0_address_cell.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/f0_address_cell.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/specification_activity.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/specification_activity.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/b4_product_param_cell.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/b4_product_param_cell.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/g3_message_cell.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/g3_message_cell.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/a0_signin.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/a0_signin.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/trade_body.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/trade_body.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/activity_lifecycle_item.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/activity_lifecycle_item.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/gooditem.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/gooditem.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/a1_register_item.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/a1_register_item.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/b2_product_detail_head.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/b2_product_detail_head.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/memory_message.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/memory_message.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/xlistview_header_pro.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/xlistview_header_pro.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/filter_toolbar.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/filter_toolbar.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/lead_b.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/lead_b.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/lead_e.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/lead_e.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/b1_product_call.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/b1_product_call.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/b0_index_banner.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/b0_index_banner.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/search_topview.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/search_topview.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/crash_log_activity.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/crash_log_activity.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/layout/e5_collect_cell.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/layout/e5_collect_cell.xml"
+    }
+]

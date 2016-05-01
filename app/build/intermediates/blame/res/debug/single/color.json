@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/color/vpi__dark_theme.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/color/vpi__dark_theme.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/color/vpi__light_theme.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/color/vpi__light_theme.xml"
+    }
+]

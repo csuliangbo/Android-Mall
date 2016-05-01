@@ -1,0 +1,674 @@
+[
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/return_btn_hover.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/return_btn_hover.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shopping_cart_act_logo_a.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/shopping_cart_act_logo_a.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/profile_refresh_receipt_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/profile_refresh_receipt_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/netload_06.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/netload_06.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/footer_shopping_cart_active_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/footer_shopping_cart_active_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/searcher_new_body_btn_blue.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/searcher_new_body_btn_blue.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/footer_home_active_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/footer_home_active_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bug.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/bug.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/trade_info_stream_logistics_time_active_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/trade_info_stream_logistics_time_active_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_grid_filter_up_active_arrow.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/item_grid_filter_up_active_arrow.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_grid_header_arrow_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/item_grid_header_arrow_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/address_edit_modify_btn_red.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/address_edit_modify_btn_red.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/netload_07.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/netload_07.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/index_body_bg.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/index_body_bg.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/footer_bg.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/footer_bg.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/trade_info_stream_cont_bg.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/trade_info_stream_cont_bg.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_info_header_share_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/item_info_header_share_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/body_cont_bg_red.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/body_cont_bg_red.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/on.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/on.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shopping_cart_edit_choose_min_btn.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/shopping_cart_edit_choose_min_btn.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shopping_checkout_sub_order_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/shopping_checkout_sub_order_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/netload_10.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/netload_10.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_grid_filter_down_active_arrow.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/item_grid_filter_down_active_arrow.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shopping_cart_body_dotted_line.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/shopping_cart_body_dotted_line.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cont_bg.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/cont_bg.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/index_hot_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/index_hot_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shopping_cart_empty_cart_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/shopping_cart_empty_cart_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/progress.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/progress.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/netload_08.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/netload_08.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/filter_blue_btn.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/filter_blue_btn.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_list_goods_show_list_bg.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/item_list_goods_show_list_bg.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_grid_body_price_bg_red.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/item_grid_body_price_bg_red.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/profile_refresh_goods_num_bg.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/profile_refresh_goods_num_bg.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_info_pushed_collect_btn.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/item_info_pushed_collect_btn.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/footer_user_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/footer_user_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/netload_05.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/netload_05.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shopping_cart_edit_remove_box.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/shopping_cart_edit_remove_box.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/footer_shopping_cart_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/footer_shopping_cart_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tuitional_bg.jpg",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/tuitional_bg.jpg"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/searcher_new_body_btn_grey.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/searcher_new_body_btn_grey.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/netload_03.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/netload_03.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/address_edit_default_btn_yellow.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/address_edit_default_btn_yellow.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/foot_bg.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/foot_bg.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tuitional_img_2_3.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/tuitional_img_2_3.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tuitional_img_3_3.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/tuitional_img_3_3.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/netload_12.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/netload_12.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/searcher_new_voice_cont_bg.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/searcher_new_voice_cont_bg.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cell_bg_footer_small.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/cell_bg_footer_small.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/netload_09.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/netload_09.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/circle.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/circle.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cell_bg_content_small.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/cell_bg_content_small.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/trade_info_stream_cont_bg_a.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/trade_info_stream_cont_bg_a.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tuitional_img_1.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/tuitional_img_1.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_info_add_cart_desabled_btn_red_b.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/item_info_add_cart_desabled_btn_red_b.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/profile_avatar_bg.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/profile_avatar_bg.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/gray_arrow.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/gray_arrow.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/trade_info_stream_body_bg.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/trade_info_stream_body_bg.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/trade_info_stream_logistics_time_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/trade_info_stream_logistics_time_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shop_car_remove.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/shop_car_remove.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/trade_bg.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/trade_bg.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/trade_info_stream_logistics_time_line.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/trade_info_stream_logistics_time_line.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shopping_cart_acc_cart_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/shopping_cart_acc_cart_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/searcher_new_search_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/searcher_new_search_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/xlistview_arrow.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/xlistview_arrow.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shopping_checkout_required_bg.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/shopping_checkout_required_bg.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shopping_cart_edit_choose_num_bg.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/shopping_cart_edit_choose_num_bg.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tuitional_carousel_btn.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/tuitional_carousel_btn.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_new_shopping_cart_num_bg.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/search_new_shopping_cart_num_bg.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/profile_no_avarta_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/profile_no_avarta_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/searcher_new_voice_cont_voice_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/searcher_new_voice_cont_voice_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_red.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/btn_red.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/close_btn.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/close_btn.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/footer_search_active_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/footer_search_active_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shopping_cart_body_bg_a.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/shopping_cart_body_bg_a.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/profile_refresh_history_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/profile_refresh_history_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/index_carsouel_bg.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/index_carsouel_bg.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/footer_user_active_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/footer_user_active_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_info_buy_kinds_btn_bg_grey.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/item_info_buy_kinds_btn_bg_grey.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tm_dialog_default_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/tm_dialog_default_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_grid_float_shopping_cart_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/item_grid_float_shopping_cart_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/log_in_user_name_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/log_in_user_name_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tuitional_img_5_2.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/tuitional_img_5_2.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/browser_baritem_refresh.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/browser_baritem_refresh.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/accsessory_arrow_down.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/accsessory_arrow_down.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_info_collection_disabled_btn.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/item_info_collection_disabled_btn.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/setting_log_out_btn_red.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/setting_log_out_btn_red.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/trade_info_stream_express_delivery_logo.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/trade_info_stream_express_delivery_logo.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/footer_home_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/footer_home_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_red.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/button_red.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/searcher_new_voice_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/searcher_new_voice_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/default_image.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/default_image.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/trade_info_stream_b.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/trade_info_stream_b.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tm_toast_bg.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/tm_toast_bg.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/body_cont_small_bg.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/body_cont_small_bg.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/netload_01.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/netload_01.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_narrow_blue.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/button_narrow_blue.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tuitional_img_3_1.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/tuitional_img_3_1.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tuitional_img_5_1.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/tuitional_img_5_1.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tuitional_img_4_1.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/tuitional_img_4_1.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tuitional_img_2_1.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/tuitional_img_2_1.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/trade_info_stream_info_bg_c.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/trade_info_stream_info_bg_c.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_faverites_edit_close_btn.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/item_faverites_edit_close_btn.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/address_empty_body_add_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/address_empty_body_add_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tuitional_carousel_btn_last.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/tuitional_carousel_btn_last.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/nav_trash.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/nav_trash.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/body_cont_bg.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/body_cont_bg.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/searcher_no_result_empty_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/searcher_no_result_empty_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/phone_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/phone_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shopping_cart_act_logo.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/shopping_cart_act_logo.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/accsessory_arrow_right.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/accsessory_arrow_right.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/nav_bg.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/nav_bg.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/background.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/background.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shopping_cart_body_bg_02.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/shopping_cart_body_bg_02.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ecmobile_logo.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/ecmobile_logo.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_narrow_red.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/button_narrow_red.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/trade_info_stream_a.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/trade_info_stream_a.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shopping_checkout_color_bar.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/shopping_checkout_color_bar.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_grid_filter_price_arrow.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/item_grid_filter_price_arrow.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/searcher_new_search_box.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/searcher_new_search_box.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/body_cont.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/body_cont.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/log_in_key_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/log_in_key_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/netload_02.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/netload_02.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_narrow_gray.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/button_narrow_gray.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/profile_refresh_site_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/profile_refresh_site_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/accsessory_check.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/accsessory_check.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tuitional_img_2_2.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/tuitional_img_2_2.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tuitional_img_4_2.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/tuitional_img_4_2.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_grid_filter_bg_line.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/item_grid_filter_bg_line.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shopping_cart_body_bg_05.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/shopping_cart_body_bg_05.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/expired_568h.jpg",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/expired_568h.jpg"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_info_buy_kinds_active_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/item_info_buy_kinds_active_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/browser_baritem_back.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/browser_baritem_back.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_grid_filter_up_arrow.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/item_grid_filter_up_arrow.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_blue.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/button_blue.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/accsessory_arrow_up.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/accsessory_arrow_up.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/browser_baritem_forward.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/browser_baritem_forward.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_yellow.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/btn_yellow.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/searcher_new_voice_disabled.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/searcher_new_voice_disabled.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shopping_cart_body_bg_b.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/shopping_cart_body_bg_b.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/index_new_full_rec_bg.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/index_new_full_rec_bg.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ecmobile_splash_4.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/ecmobile_splash_4.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/netload_04.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/netload_04.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/profile_refresh_prompt_bg.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/profile_refresh_prompt_bg.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/profile_img_bg.jpg",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/profile_img_bg.jpg"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tuitional_img_2_4.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/tuitional_img_2_4.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/netload_11.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/netload_11.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/back_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/back_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cell_bg_header_small.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/cell_bg_header_small.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tuitional_carousel_active_btn.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/tuitional_carousel_active_btn.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_graph_header_view_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/item_graph_header_view_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/profile_refresh_ship_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/profile_refresh_ship_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/address_edit_modify_btnb.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/address_edit_modify_btnb.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/splash_background.xml",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/splash_background.xml"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/profile_vip_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/profile_vip_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/up_bg2x.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/up_bg2x.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/closed.jpg",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/closed.jpg"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/profile_refresh_camera_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/profile_refresh_camera_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/profile_refresh_payment_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/profile_refresh_payment_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shopping_checkout_body_bg.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/shopping_checkout_body_bg.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_info_buy_kinds_btn_active_bg.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/item_info_buy_kinds_btn_active_bg.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/footer_search_icon.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/footer_search_icon.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/off.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/off.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_info_add_cart_btnb.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/item_info_add_cart_btnb.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shopping_cart_edit_choose_sum_btn.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/shopping_cart_edit_choose_sum_btn.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_orange.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/button_orange.9.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tuitional_img_3_2.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/tuitional_img_3_2.png"
+    },
+    {
+        "merged": "/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/footer_active_bg.9.png",
+        "source": "/Users/Yang/Desktop/android/jMonkey/android/app/src/main/res/drawable-hdpi/footer_active_bg.9.png"
+    }
+]

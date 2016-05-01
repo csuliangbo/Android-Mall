@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Yang/Desktop/android/jMonkey/android/app/libs/UPPayPluginExPro.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="95b3d8d188aee8dd3d18c25b4ec46bbcdd93824d">
+        <dex dex="/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/transforms/dex/debug/folders/1000/2/UPPayPluginExPro_5a80343b64c94a54c6528dcb8980ffcbcd1d4665/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yang/Desktop/android/jMonkey/android/app/libs/umeng_sdk.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f215292edd3cea48bea39811c7bc814a09d4481a">
+        <dex dex="/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/transforms/dex/debug/folders/1000/2/umeng_sdk_06c685ed231d2acb846cb0b0e07d986249bba9c0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_bb466f4864ecc386b1d3d41f2d9d07a40279979c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yang/Desktop/android/jMonkey/android/app/libs/commons-httpclient-3.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d6364bcc1b2b2aa69d008602d36a700453648560">
+        <dex dex="/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-httpclient-3.0.1_ebb0e11df7774c4e29de20115bac024d04d388db/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yang/Desktop/android/jMonkey/android/app/libs/androidsdk.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7184042f6c05fec2d8181306aa6873079b65e611">
+        <dex dex="/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/transforms/dex/debug/folders/1000/2/androidsdk_a09cc9dc049a5bd774b58da649185b5885f7032f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yang/Desktop/android/jMonkey/android/app/libs/pushservice-4.4.0.71.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9509cfa0c9817d0905fc6f9b0d417a4730884966">
+        <dex dex="/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/transforms/dex/debug/folders/1000/2/pushservice-4.4.0.71_f800e6466355b337bb663ce80b92d6e443baa781/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yang/Desktop/android/jMonkey/android/app/libs/weibosdkcore.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bd767db6c90e98697ee1ca76372b806828c6ff50">
+        <dex dex="/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/transforms/dex/debug/folders/1000/2/weibosdkcore_05d02b3e469625bc0b210951b843dd26e7f6cd05/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yang/Desktop/android/jMonkey/android/app/libs/alipayutdid.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4345fa0a5a7768f2f9c86aaab7db9e2906765193">
+        <dex dex="/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/transforms/dex/debug/folders/1000/2/alipayutdid_0ac72d78c3b2cc61951e3e812fc5d7a64ca8a40f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yang/Desktop/android/jMonkey/android/app/libs/alipaysdk.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="61551cf6e23c5133046a07ec6cd9dee6aa5c78a0">
+        <dex dex="/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/transforms/dex/debug/folders/1000/2/alipaysdk_f352dc50d043480c4f33ddf1f9aa175d016dcbec/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yang/Desktop/android/jMonkey/android/app/libs/alipaysecsdk.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7413c074c9edf523050267b93d0875151dc4b644">
+        <dex dex="/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/transforms/dex/debug/folders/1000/2/alipaysecsdk_9f9fac0ec75cefca0045646186ddb0022cbbddf3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yang/Desktop/android/jMonkey/android/app/libs/Msc.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="612ce0b45e5d70383d8548bcfe6c8c5b1271617d">
+        <dex dex="/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/transforms/dex/debug/folders/1000/2/Msc_3fd046e7cde5fc415482fc5f778ff17f892e14e6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.3_57f0c1a3ec36ce42fe05988cbb1c1fa2588413cf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_d74fd1fc3ff669bb559939ab9873efe8d89d26fe/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yang/Desktop/android/jMonkey/android/app/libs/libammsdk.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ef29ec238e1bad6c47297595fada8d7a7d794ff0">
+        <dex dex="/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/transforms/dex/debug/folders/1000/2/libammsdk_e767ab089caa8c590bd4e13be8da920fe6bbd24c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4d4b69073e0578bb2431238e3cf873fc257aaaeb">
+        <dex dex="/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5517d98def0487f61bc9f3d70795f5a4f92db9d7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yang/Desktop/android/jMonkey/android/app/libs/UPPayAssistEx.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="06ff45e2f35db618401097141bb18a8c79994616">
+        <dex dex="/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/transforms/dex/debug/folders/1000/2/UPPayAssistEx_7fab2ab91a1aeb85e66ff251e033e68d26f1c9a9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yang/Desktop/android/jMonkey/android/app/libs/androidsdkcomponent.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="90a059ec3467d0585563cf034d6fe910c75a28fc">
+        <dex dex="/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/transforms/dex/debug/folders/1000/2/androidsdkcomponent_f8d002e3fec3f9981223134565364448f5b050f7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yang/Desktop/android/jMonkey/android/app/libs/universal-image-loader-1.8.6-with-sources.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9ad605dd55be2e74e614b2ab2ff466439c4461b7">
+        <dex dex="/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.8.6-with-sources_5cd94efa290ea1b8d4ab8c372a8f07f61fab6a40/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="86f469d5f11f2bc1d9da4438f2eb6ad9c0ed2ba1">
+        <dex dex="/Users/Yang/Desktop/android/jMonkey/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2c03da35f7d566b68edfbea78ecde6c370e70b63/classes.dex" />
+    </item>
+
+</items>
